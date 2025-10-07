@@ -1,0 +1,501 @@
+Degree,Major,GPA,Certifications,Skills,Job Role,Industry,Experience Level
+B.Com,Electrical Engineering,9.99,"Data Science, SQL","Financial Modeling, Excel",Financial Analyst,IT/Manufacturing,Mid-level
+B.A,Civil Engineering,9.07,"Content Writing, Data Science, Embedded Systems","Research, Microcontrollers, Content Marketing",Software Developer,HR,Entry-level
+MBA,Human Resource,8.73,Tally,"CAD, Project Management",Accountant,IT,Entry-level
+B.Tech,English Literature,8.5,"AI, Embedded Systems, SQL","Content Marketing, SQL, Payroll",Marketing Executive,IT/Manufacturing,Entry-level
+B.A,English Literature,7.42,"CFA Level 1, Tally","Editing, CAD, Writing",Content Writer,IT/Research,Entry-level
+B.A,Human Resource,7.8,"Digital Marketing, AutoCAD","Research, Writing, C",Accountant,Research,Mid-level
+B.Sc,Human Resource,9.76,Tally,"Payroll, Financial Modeling, TensorFlow, Research",Data Analyst,IT,Mid-level
+B.Com,Marketing,8.93,"Content Writing, Lab Techniques, AI","Editing, Writing, Research",Research Associate,Construction,Entry-level
+BBA,Marketing,8.46,"Data Science, HR Analytics, SQL","Research, Web Development, Recruitment",Electrical Engineer,IT,Entry-level
+M.Sc,Marketing,8.55,Content Writing,"Writing, MATLAB",Content Writer,HR,Senior
+M.Sc,Marketing,7.22,"Python, Data Science, ML","Data Analysis, SEO, Excel, SQL",Electrical Engineer,IT/Research,Senior
+MBA,Statistics,7.08,"CFA Level 1, Embedded Systems","Web Development, ML, TensorFlow, Writing",Marketing Executive,Media/Publishing,Mid-level
+B.Tech,Human Resource,8.73,"Data Science, CFA Level 1","Data Analysis, Payroll",Embedded Systems Engineer,IT,Entry-level
+B.A,Data Science,7.79,AutoCAD,"C, Microcontrollers",HR Executive,HR,Entry-level
+B.A,Electrical Engineering,8.46,"SQL, ML, Digital Marketing","Excel, Web Development, Data Analysis, Payroll",Embedded Systems Engineer,HR,Senior
+B.A,Data Science,9.5,"ML, Data Science","Project Management, Microcontrollers",Marketing Executive,IT,Senior
+B.A,Computer Science,7.82,"SQL, Content Writing","Financial Modeling, Recruitment, C",Research Associate,IT,Mid-level
+M.Sc,Finance,7.05,AI,"TensorFlow, Content Marketing",Content Writer,IT/Manufacturing,Mid-level
+MBA,Data Science,8.42,"SQL, CFA Level 1, Embedded Systems","Data Analysis, Writing, ML, SEO",Civil Engineer,Construction,Mid-level
+B.A,Data Science,8.55,Lab Techniques,"Recruitment, SEO",Civil Engineer,Construction,Senior
+B.A,Finance,8.38,Data Science,"MATLAB, Payroll, Web Development, TensorFlow",HR Executive,HR,Senior
+M.Tech,Electronics,8.23,"Data Science, CFA Level 1, Content Writing","C, Data Analysis, SEO",AI Engineer,IT,Senior
+B.A,Statistics,8.89,CFA Level 1,"Writing, TensorFlow, MATLAB",Embedded Systems Engineer,Media/Publishing,Mid-level
+BBA,Civil Engineering,9.02,Lab Techniques,"Payroll, TensorFlow",Mechanical Engineer,IT/Manufacturing,Entry-level
+B.Sc,Data Science,9.41,"Lab Techniques, Tally, Data Science","CAD, Payroll, C",Software Developer,Manufacturing,Senior
+M.Tech,Electronics,9.4,"Content Writing, HR Analytics","Writing, C, Excel",Content Writer,Manufacturing,Senior
+M.Tech,Human Resource,9.52,"CFA Level 1, Python","Payroll, CAD, SEO",Research Associate,Construction,Entry-level
+B.Sc,Civil Engineering,7.3,"Digital Marketing, AI, Tally","MATLAB, SEO",HR Executive,Media/Publishing,Senior
+B.A,Electrical Engineering,9.94,"Embedded Systems, HR Analytics","Editing, SEO, Data Analysis",Marketing Executive,Manufacturing,Senior
+B.Tech,Computer Science,8.97,HR Analytics,"SQL, Financial Modeling",Embedded Systems Engineer,Marketing,Entry-level
+M.Tech,Finance,8.83,"ML, Digital Marketing","SEO, Editing",Civil Engineer,IT/Manufacturing,Senior
+B.Tech,Finance,8.08,"Content Writing, CFA Level 1","SQL, Microcontrollers, Writing, Research",Marketing Executive,IT,Mid-level
+B.Tech,Computer Science,7.87,"Python, HR Analytics","ML, Data Analysis",Civil Engineer,Research,Mid-level
+B.Com,Electronics,8.76,"SQL, Digital Marketing, HR Analytics","Recruitment, SQL, Editing, Content Marketing",Marketing Executive,Marketing,Entry-level
+M.Tech,Statistics,8.72,AutoCAD,"SEO, Excel, Project Management, Payroll",Data Analyst,IT/Manufacturing,Entry-level
+B.Com,Finance,9.78,SQL,"Writing, Research, Web Development, Payroll",Embedded Systems Engineer,IT/Manufacturing,Senior
+MBA,Human Resource,7.95,Python,"Microcontrollers, Editing, MATLAB",Content Writer,IT,Entry-level
+B.A,Marketing,9.68,ML,"CAD, Writing",Software Developer,Media/Publishing,Senior
+B.A,Finance,8.4,AutoCAD,"Writing, Recruitment, Microcontrollers, Payroll",HR Executive,Media/Publishing,Senior
+MBA,Computer Science,8.87,CFA Level 1,"MATLAB, Python",Data Analyst,IT/Research,Entry-level
+B.Tech,Computer Science,7.54,"Embedded Systems, SQL","Writing, TensorFlow, Payroll, SEO",Data Scientist,IT/Research,Mid-level
+BBA,Civil Engineering,9.72,"CFA Level 1, Digital Marketing, AutoCAD","MATLAB, Excel, Recruitment",HR Executive,Finance,Entry-level
+B.Tech,Electrical Engineering,9.01,"CFA Level 1, ML","Microcontrollers, Excel",Research Associate,Construction,Entry-level
+MBA,Electrical Engineering,7.42,CFA Level 1,"Content Marketing, SQL",Content Writer,IT/Manufacturing,Entry-level
+BBA,Mechanical Engineering,7.54,"Content Writing, AutoCAD, Digital Marketing","Recruitment, C, Python, CAD",Electrical Engineer,HR,Entry-level
+B.Sc,Mechanical Engineering,7.08,"Embedded Systems, Digital Marketing, Python","Web Development, C, Content Marketing, Project Management",Marketing Executive,IT,Entry-level
+B.A,English Literature,9.72,Embedded Systems,"Project Management, Research",Content Writer,IT/Manufacturing,Mid-level
+B.Com,Electronics,9.11,"Python, Content Writing","Financial Modeling, Research",Data Analyst,Construction,Senior
+B.Tech,Mechanical Engineering,9.36,"Embedded Systems, CFA Level 1","Project Management, C, Data Analysis, CAD",Content Writer,Finance,Senior
+MBA,Statistics,8.27,"AI, SQL","SEO, Web Development, C, SQL",Accountant,HR,Entry-level
+MBA,Statistics,8.26,"SQL, AutoCAD","TensorFlow, C, ML, SEO",Mechanical Engineer,IT/Manufacturing,Entry-level
+B.Tech,Statistics,7.02,CFA Level 1,"CAD, Project Management, SEO, Recruitment",Content Writer,HR,Mid-level
+B.Com,Electrical Engineering,8.3,"Tally, Content Writing","Editing, C, Python, Research",Financial Analyst,Construction,Mid-level
+B.Sc,Electrical Engineering,7.1,"Embedded Systems, Digital Marketing","TensorFlow, Web Development, Editing, Excel",Financial Analyst,IT/Manufacturing,Senior
+B.Sc,Electrical Engineering,9.16,Python,"C, Editing, MATLAB",Research Associate,IT/Research,Entry-level
+M.Tech,Finance,9.12,"Python, Tally","SQL, Web Development",AI Engineer,IT/Research,Entry-level
+B.Sc,Finance,9.27,"HR Analytics, AutoCAD","Recruitment, Content Marketing, Excel, Financial Modeling",Data Analyst,IT/Research,Senior
+B.Tech,English Literature,9.95,"ML, Content Writing, Python","C, Recruitment, Payroll, CAD",Research Associate,Construction,Senior
+B.A,Marketing,8.17,"ML, AI","Research, Web Development, Python",Data Scientist,IT/Manufacturing,Mid-level
+BBA,Civil Engineering,7.35,"Embedded Systems, ML, Digital Marketing","Recruitment, MATLAB, Microcontrollers, Payroll",Embedded Systems Engineer,HR,Senior
+B.Sc,Data Science,7.43,"HR Analytics, ML, Tally","Research, TensorFlow, SQL",Electrical Engineer,IT,Entry-level
+MBA,Mechanical Engineering,8.84,Content Writing,"Data Analysis, Project Management, CAD",Data Scientist,Media/Publishing,Senior
+B.Tech,Electronics,9.3,"CFA Level 1, AutoCAD, Tally","MATLAB, Writing",Content Writer,Construction,Senior
+BBA,Electrical Engineering,7.98,"Tally, Python","C, Research",Accountant,HR,Mid-level
+M.Tech,Computer Science,7.63,SQL,"Content Marketing, Excel, Web Development, Writing",Mechanical Engineer,Manufacturing,Entry-level
+B.A,Human Resource,8.12,Data Science,"TensorFlow, SQL",Financial Analyst,HR,Mid-level
+B.Sc,Finance,7.73,"Lab Techniques, AI","TensorFlow, Project Management, CAD",Civil Engineer,Manufacturing,Mid-level
+BBA,Data Science,9.32,"Content Writing, Data Science, Digital Marketing","Research, Payroll, SEO, Microcontrollers",Civil Engineer,Manufacturing,Senior
+B.Com,Finance,9.73,"AutoCAD, Tally, Data Science","Payroll, Financial Modeling, ML",Financial Analyst,Manufacturing,Entry-level
+M.Tech,Computer Science,7.35,CFA Level 1,"Financial Modeling, Research, TensorFlow, C",HR Executive,Finance,Entry-level
+B.Com,Mechanical Engineering,9.75,"Digital Marketing, Tally, Embedded Systems","Web Development, Data Analysis",Marketing Executive,IT,Entry-level
+M.Sc,Electronics,8.34,"Digital Marketing, AI, AutoCAD","ML, Excel, C",Embedded Systems Engineer,HR,Mid-level
+B.A,Data Science,7.85,Data Science,"SEO, Financial Modeling, C",Content Writer,Construction,Mid-level
+B.A,Electrical Engineering,7.99,"Content Writing, AutoCAD, Python","Recruitment, Python",Electrical Engineer,IT/Research,Senior
+M.Tech,Electronics,7.34,"ML, Lab Techniques, SQL","Payroll, Financial Modeling",HR Executive,Finance,Entry-level
+BBA,Electronics,8.24,"AI, Embedded Systems, HR Analytics","SQL, Excel, Python, CAD",Civil Engineer,IT/Manufacturing,Entry-level
+B.Com,Data Science,8.34,"Content Writing, AI, Python","Web Development, ML, Recruitment",Software Developer,IT/Manufacturing,Mid-level
+B.Sc,Civil Engineering,9.64,AI,"Microcontrollers, Web Development, Writing, Content Marketing",Research Associate,Manufacturing,Mid-level
+M.Sc,Human Resource,7.41,"SQL, Digital Marketing, AI","Python, Editing, CAD, Data Analysis",Mechanical Engineer,Manufacturing,Entry-level
+B.Sc,Finance,7.49,AI,"Content Marketing, SEO, Research",AI Engineer,Construction,Senior
+B.Sc,English Literature,9.99,"Data Science, Tally","Data Analysis, SEO",Civil Engineer,IT/Research,Mid-level
+B.Sc,Finance,9.91,CFA Level 1,"Web Development, CAD, TensorFlow",Embedded Systems Engineer,Media/Publishing,Senior
+M.Tech,Mechanical Engineering,8.78,"Tally, Lab Techniques","Recruitment, TensorFlow, Editing",Accountant,HR,Mid-level
+B.A,Computer Science,8.4,CFA Level 1,"SQL, Research",Financial Analyst,IT/Research,Mid-level
+B.A,Statistics,7.23,"Lab Techniques, CFA Level 1","Project Management, Microcontrollers, Content Marketing",Embedded Systems Engineer,Manufacturing,Mid-level
+B.A,Civil Engineering,9.4,"Content Writing, Tally","Microcontrollers, Payroll, Research",AI Engineer,IT,Entry-level
+MBA,Electronics,9.97,HR Analytics,"MATLAB, Financial Modeling, Excel, Python",HR Executive,Construction,Mid-level
+B.Sc,Electrical Engineering,7.08,"HR Analytics, Digital Marketing, SQL","Financial Modeling, Content Marketing, CAD, ML",Mechanical Engineer,IT/Research,Senior
+B.A,Statistics,8.19,"Content Writing, Tally","CAD, Content Marketing",Content Writer,IT,Senior
+B.Sc,Electronics,7.3,Content Writing,"Web Development, Writing, Python, Data Analysis",Research Associate,IT,Entry-level
+B.Tech,Computer Science,9.89,"Tally, Python, AutoCAD","TensorFlow, Content Marketing",Research Associate,Research,Mid-level
+M.Sc,Data Science,7.54,Lab Techniques,"Research, CAD",Marketing Executive,IT/Manufacturing,Senior
+M.Tech,Statistics,8.61,"ML, HR Analytics, SQL","Microcontrollers, SEO",Marketing Executive,HR,Senior
+B.Com,Statistics,9.47,"AutoCAD, HR Analytics, ML","Content Marketing, Web Development",Data Scientist,Construction,Entry-level
+M.Sc,Civil Engineering,7.87,Python,"Editing, Writing",Embedded Systems Engineer,IT/Manufacturing,Entry-level
+B.A,Mechanical Engineering,8.83,Lab Techniques,"Content Marketing, SEO",Content Writer,IT/Research,Mid-level
+MBA,Statistics,8.52,"Python, Content Writing","Excel, Data Analysis, ML",Electrical Engineer,Manufacturing,Entry-level
+B.Com,Mechanical Engineering,8.71,CFA Level 1,"Financial Modeling, Content Marketing, CAD, SQL",Software Developer,Construction,Senior
+BBA,Human Resource,9.38,"AI, ML","Project Management, C, Writing",Software Developer,Research,Entry-level
+B.Sc,English Literature,7.18,"Tally, ML, Content Writing","Payroll, Financial Modeling, SQL",Software Developer,Media/Publishing,Mid-level
+M.Sc,Data Science,8.18,"Data Science, AI","TensorFlow, Project Management, SEO",Embedded Systems Engineer,Marketing,Mid-level
+B.A,Electrical Engineering,7.57,"HR Analytics, Content Writing","Data Analysis, Editing",HR Executive,HR,Mid-level
+M.Sc,Marketing,9.29,Digital Marketing,"Recruitment, CAD",Marketing Executive,IT/Research,Mid-level
+BBA,Marketing,7.36,"Data Science, Tally, CFA Level 1","Writing, ML, Web Development",Accountant,HR,Senior
+BBA,Statistics,9.74,"Python, AI, HR Analytics","Data Analysis, MATLAB",Marketing Executive,Marketing,Entry-level
+B.Sc,Civil Engineering,7.17,CFA Level 1,"Recruitment, Research, SEO, ML",Content Writer,Marketing,Entry-level
+B.Sc,English Literature,7.79,"Digital Marketing, SQL, HR Analytics","CAD, Financial Modeling, ML, Excel",Accountant,Manufacturing,Entry-level
+M.Tech,English Literature,7.18,"AI, Data Science","ML, Data Analysis, Writing",Embedded Systems Engineer,Finance,Entry-level
+B.Com,Computer Science,7.58,"Lab Techniques, Digital Marketing, Content Writing","SEO, Data Analysis, Web Development",AI Engineer,Media/Publishing,Mid-level
+B.Sc,Marketing,9.04,"HR Analytics, Embedded Systems, ML","Content Marketing, Editing, Microcontrollers, Python",Research Associate,Construction,Senior
+BBA,Electrical Engineering,8.63,Embedded Systems,"Recruitment, SQL, C",AI Engineer,Marketing,Entry-level
+B.Tech,Finance,8.32,"Content Writing, CFA Level 1, AI","Web Development, Payroll",Electrical Engineer,Marketing,Mid-level
+B.A,Electronics,7.19,"Digital Marketing, Content Writing","CAD, Writing, SEO",AI Engineer,IT/Manufacturing,Mid-level
+B.A,Statistics,7.76,"Lab Techniques, Embedded Systems, ML","TensorFlow, Python, Research, SQL",Electrical Engineer,Finance,Mid-level
+B.Com,Civil Engineering,7.66,"Content Writing, Tally, Digital Marketing","Content Marketing, Financial Modeling, Web Development, Excel",Accountant,Research,Entry-level
+B.Tech,Computer Science,7.64,"CFA Level 1, Embedded Systems, Digital Marketing","Python, Writing, CAD",HR Executive,HR,Entry-level
+BBA,Finance,8.82,"CFA Level 1, Content Writing, HR Analytics","Web Development, Python",Financial Analyst,Manufacturing,Mid-level
+B.Sc,English Literature,9.21,"Embedded Systems, Python","Writing, Project Management",Accountant,Research,Senior
+MBA,Data Science,7.01,"SQL, Lab Techniques","Editing, Research, TensorFlow, CAD",AI Engineer,HR,Entry-level
+B.Sc,Human Resource,9.33,"Lab Techniques, Digital Marketing, SQL","Microcontrollers, Financial Modeling",Data Scientist,HR,Entry-level
+B.Tech,Electronics,7.24,ML,"Financial Modeling, Content Marketing, CAD",Research Associate,Research,Mid-level
+M.Sc,Civil Engineering,9.7,"SQL, Tally, Digital Marketing","Microcontrollers, Editing, ML, Recruitment",Content Writer,Research,Senior
+B.Com,Data Science,9.43,"Lab Techniques, AI, Python","Project Management, SEO, Financial Modeling",Mechanical Engineer,Manufacturing,Mid-level
+B.Com,Civil Engineering,9.67,"Tally, CFA Level 1, AI","MATLAB, Research",HR Executive,Marketing,Senior
+B.Sc,Computer Science,9.96,HR Analytics,"SQL, C",Software Developer,Marketing,Entry-level
+BBA,Electrical Engineering,7.96,"Embedded Systems, Tally","SEO, Microcontrollers",HR Executive,Finance,Entry-level
+M.Sc,Computer Science,9.78,"Tally, SQL, Lab Techniques","Writing, Data Analysis, TensorFlow, Financial Modeling",HR Executive,Media/Publishing,Entry-level
+B.Tech,Electronics,8.81,"Tally, SQL, CFA Level 1","Data Analysis, SEO, Writing",Research Associate,Manufacturing,Mid-level
+B.Com,English Literature,7.61,Content Writing,"Web Development, SQL, Project Management",Embedded Systems Engineer,Finance,Mid-level
+M.Tech,Electrical Engineering,8.4,"SQL, Content Writing","Web Development, Recruitment, SEO, Project Management",Software Developer,IT,Senior
+B.Tech,Human Resource,9.69,"AI, CFA Level 1, Digital Marketing","C, Research",Civil Engineer,Research,Entry-level
+BBA,Computer Science,8.04,"Embedded Systems, AutoCAD","C, Excel",Data Scientist,HR,Mid-level
+MBA,Computer Science,9.62,"Lab Techniques, AutoCAD, Python","Excel, SEO, CAD",Mechanical Engineer,Construction,Entry-level
+BBA,Data Science,8.12,"Python, HR Analytics, Data Science","TensorFlow, Editing, Data Analysis, Excel",Accountant,Construction,Entry-level
+M.Sc,English Literature,7.32,Embedded Systems,"Recruitment, Financial Modeling, Python, Project Management",Electrical Engineer,IT/Manufacturing,Senior
+B.Tech,Electronics,9.37,"Lab Techniques, SQL, Tally","CAD, SQL, Content Marketing",HR Executive,IT/Research,Entry-level
+M.Tech,Statistics,8.05,"ML, CFA Level 1, Lab Techniques","C, Project Management, Editing",Accountant,Manufacturing,Senior
+B.Tech,Marketing,8.46,"SQL, Lab Techniques","C, ML",Mechanical Engineer,IT,Mid-level
+BBA,Computer Science,7.66,"CFA Level 1, Data Science","Excel, Project Management, Data Analysis",Marketing Executive,Finance,Mid-level
+B.Com,Civil Engineering,7.5,"CFA Level 1, SQL, Digital Marketing","Excel, Editing",Accountant,Marketing,Senior
+M.Tech,Civil Engineering,8.89,SQL,"Content Marketing, SEO",AI Engineer,Finance,Mid-level
+B.Tech,Finance,7.56,"AutoCAD, Tally, SQL","SEO, Web Development, Data Analysis",Research Associate,Manufacturing,Entry-level
+B.Sc,Statistics,9.06,"HR Analytics, ML","ML, MATLAB, Editing",Data Scientist,Manufacturing,Entry-level
+BBA,Computer Science,9.73,"AutoCAD, AI","Editing, Financial Modeling, SQL",Marketing Executive,HR,Mid-level
+B.A,Human Resource,7.06,Content Writing,"SEO, Web Development, Content Marketing, Editing",Electrical Engineer,Research,Mid-level
+B.A,Human Resource,8.49,ML,"Web Development, SQL, Excel",Mechanical Engineer,Construction,Senior
+B.Com,English Literature,7.17,"Lab Techniques, Digital Marketing, Data Science","Financial Modeling, Payroll",Electrical Engineer,IT/Manufacturing,Entry-level
+B.Tech,Marketing,8.03,"CFA Level 1, AutoCAD, HR Analytics","Recruitment, SQL",Marketing Executive,Media/Publishing,Mid-level
+B.Sc,Finance,9.01,"Python, ML, Content Writing","MATLAB, Recruitment",Mechanical Engineer,Finance,Mid-level
+B.A,Computer Science,9.72,"Tally, Data Science, Python","Research, Editing",AI Engineer,Manufacturing,Entry-level
+M.Tech,Mechanical Engineering,7.76,Python,"Recruitment, Writing",Content Writer,Media/Publishing,Mid-level
+BBA,Mechanical Engineering,8.87,"HR Analytics, AI, Embedded Systems","TensorFlow, ML",Marketing Executive,Marketing,Entry-level
+M.Sc,Mechanical Engineering,9.61,Embedded Systems,"Data Analysis, Payroll, Writing, Project Management",Embedded Systems Engineer,Media/Publishing,Mid-level
+B.Com,Civil Engineering,7.26,AutoCAD,"Editing, Payroll, Microcontrollers, Writing",Mechanical Engineer,Media/Publishing,Entry-level
+M.Tech,Computer Science,9.75,"SQL, HR Analytics","ML, Editing, SQL, SEO",HR Executive,Media/Publishing,Mid-level
+B.Tech,Electrical Engineering,9.06,Python,"Writing, Excel",Marketing Executive,Media/Publishing,Mid-level
+B.A,Human Resource,9.87,"Tally, AI","CAD, Web Development, Writing",Accountant,IT/Research,Senior
+M.Tech,Mechanical Engineering,7.46,"AI, Embedded Systems, CFA Level 1","Payroll, C, Writing, Python",Data Scientist,HR,Mid-level
+M.Tech,Statistics,8.38,"CFA Level 1, SQL","CAD, SEO, MATLAB, SQL",Accountant,Manufacturing,Entry-level
+M.Tech,Electrical Engineering,8.17,"Tally, CFA Level 1, Content Writing","MATLAB, SQL, TensorFlow, Financial Modeling",Research Associate,Marketing,Senior
+B.A,Civil Engineering,9.09,AutoCAD,"Payroll, Research",Mechanical Engineer,Marketing,Entry-level
+M.Sc,English Literature,9.21,AI,"Web Development, Content Marketing, Research",Civil Engineer,IT/Manufacturing,Entry-level
+MBA,Mechanical Engineering,9.28,"Tally, CFA Level 1","Recruitment, Data Analysis, SQL, C",Content Writer,Construction,Senior
+B.Com,Data Science,9.21,"Tally, CFA Level 1","Recruitment, Python, Financial Modeling",Mechanical Engineer,Construction,Senior
+M.Sc,Electronics,8.75,"SQL, Embedded Systems, Python","Web Development, MATLAB, C, Excel",Marketing Executive,Media/Publishing,Entry-level
+M.Tech,Marketing,7.44,ML,"SEO, Excel",Data Scientist,Manufacturing,Entry-level
+B.Tech,Data Science,8.26,"SQL, Data Science, Lab Techniques","Data Analysis, Financial Modeling",Financial Analyst,Manufacturing,Entry-level
+B.Tech,Electrical Engineering,7.75,Digital Marketing,"ML, Research, Financial Modeling",AI Engineer,Marketing,Entry-level
+BBA,Electrical Engineering,9.74,Content Writing,"ML, Editing, Web Development",Data Analyst,Media/Publishing,Mid-level
+B.A,Electrical Engineering,9.32,"CFA Level 1, Tally, Embedded Systems","Writing, TensorFlow",Content Writer,Marketing,Mid-level
+B.Sc,Electronics,7.24,Content Writing,"Data Analysis, Microcontrollers, Editing",Data Scientist,HR,Entry-level
+BBA,Electronics,7.63,"AutoCAD, CFA Level 1","Financial Modeling, Python, Writing",Electrical Engineer,Construction,Entry-level
+BBA,Electronics,9.36,"Embedded Systems, HR Analytics, AI","Recruitment, TensorFlow, Microcontrollers",Software Developer,Marketing,Mid-level
+BBA,Finance,8.4,Content Writing,"Editing, Research",Electrical Engineer,Media/Publishing,Senior
+MBA,Finance,7.68,Content Writing,"SQL, Data Analysis, Microcontrollers",Civil Engineer,IT,Mid-level
+M.Tech,Data Science,8.61,"AI, SQL, Lab Techniques","TensorFlow, Financial Modeling",Content Writer,IT,Mid-level
+B.Com,Mechanical Engineering,8.53,"SQL, AI, ML","TensorFlow, SQL, Project Management",Accountant,IT/Manufacturing,Mid-level
+B.Sc,English Literature,7.43,ML,"Data Analysis, SQL, Payroll",Accountant,IT/Research,Entry-level
+BBA,Electronics,8.26,HR Analytics,"Editing, Financial Modeling",Embedded Systems Engineer,Manufacturing,Entry-level
+B.Sc,Human Resource,9.4,"Embedded Systems, Python","Financial Modeling, Excel",Software Developer,IT/Manufacturing,Senior
+B.Tech,Electronics,9.1,"ML, Digital Marketing, HR Analytics","Recruitment, MATLAB, CAD",Data Scientist,Media/Publishing,Mid-level
+B.Com,Finance,8.52,CFA Level 1,"Content Marketing, Editing, Excel, Microcontrollers",Research Associate,HR,Senior
+MBA,Finance,7.52,"CFA Level 1, AI","Writing, Microcontrollers, Python, Research",AI Engineer,IT/Manufacturing,Entry-level
+B.A,Marketing,8.02,Embedded Systems,"Recruitment, Python",AI Engineer,Media/Publishing,Senior
+BBA,Computer Science,9.7,"Data Science, ML","Research, Recruitment, Data Analysis, MATLAB",HR Executive,HR,Senior
+B.A,Electronics,8.04,"Python, Lab Techniques","Project Management, Research, Content Marketing",HR Executive,IT,Senior
+BBA,Electrical Engineering,8.47,"HR Analytics, AutoCAD","SEO, Financial Modeling, C, Microcontrollers",AI Engineer,Research,Mid-level
+BBA,Computer Science,7.69,AutoCAD,"Python, Payroll, Content Marketing",Embedded Systems Engineer,Manufacturing,Mid-level
+M.Sc,Finance,9.07,"AI, Tally","Editing, Microcontrollers, Data Analysis, Payroll",HR Executive,Research,Senior
+M.Sc,Statistics,8.61,"AI, SQL, AutoCAD","Payroll, Excel, Financial Modeling",Data Analyst,IT,Mid-level
+M.Sc,Data Science,9.22,HR Analytics,"CAD, Financial Modeling, Research, Payroll",Civil Engineer,Research,Entry-level
+B.Sc,Human Resource,8.81,"SQL, CFA Level 1","Python, Project Management, ML",Mechanical Engineer,HR,Mid-level
+M.Sc,Electronics,9.89,"Lab Techniques, ML, Tally","CAD, Excel",Research Associate,IT,Entry-level
+M.Tech,Marketing,9.38,AutoCAD,"Microcontrollers, Excel, Payroll",Research Associate,Marketing,Senior
+B.A,Computer Science,7.08,"Tally, Data Science","Financial Modeling, Python, SQL",Data Scientist,Media/Publishing,Entry-level
+M.Sc,Marketing,9.13,"AI, Data Science","Python, Data Analysis, TensorFlow",AI Engineer,IT/Research,Mid-level
+MBA,Statistics,8.05,"ML, Embedded Systems","CAD, Web Development",Content Writer,Marketing,Entry-level
+BBA,Computer Science,7.31,"Digital Marketing, CFA Level 1, Python","Excel, Payroll, C",Content Writer,IT,Entry-level
+M.Tech,Data Science,7.42,"AI, Tally","ML, Python",AI Engineer,Research,Senior
+B.Sc,Human Resource,9.37,SQL,"MATLAB, Microcontrollers, Recruitment",Financial Analyst,Finance,Mid-level
+B.Com,Marketing,9.31,AI,"SQL, Excel, C",HR Executive,IT/Research,Mid-level
+B.Tech,Data Science,9.43,AutoCAD,"Writing, Financial Modeling, Recruitment, SQL",Software Developer,Research,Entry-level
+BBA,Electrical Engineering,9.59,Tally,"C, Data Analysis, Excel",Mechanical Engineer,Media/Publishing,Entry-level
+M.Tech,Computer Science,9.25,CFA Level 1,"C, Excel, Editing",Data Analyst,Finance,Senior
+B.A,Human Resource,9.67,Digital Marketing,"Payroll, TensorFlow",Accountant,IT/Research,Senior
+BBA,Statistics,9.58,"Python, AI, SQL","C, MATLAB",Embedded Systems Engineer,Marketing,Mid-level
+B.Sc,Electrical Engineering,8.96,CFA Level 1,"Recruitment, Research, CAD",Electrical Engineer,IT/Manufacturing,Mid-level
+B.Sc,Human Resource,8.98,"Data Science, Content Writing, Embedded Systems","Writing, CAD, Project Management, Payroll",Data Analyst,Media/Publishing,Mid-level
+B.Tech,Marketing,9.51,Embedded Systems,"CAD, Content Marketing, SEO, Data Analysis",Content Writer,Construction,Mid-level
+B.Sc,Statistics,8.18,Content Writing,"Financial Modeling, Microcontrollers, SQL",Accountant,Construction,Mid-level
+B.Sc,Statistics,7.87,"Python, AutoCAD","Writing, Excel, Recruitment, Microcontrollers",Civil Engineer,IT,Entry-level
+MBA,Mechanical Engineering,7.44,"Content Writing, Lab Techniques","Writing, MATLAB",Software Developer,IT/Manufacturing,Senior
+M.Sc,Marketing,8.51,Data Science,"Recruitment, Payroll, Editing",Financial Analyst,Marketing,Entry-level
+B.Tech,Finance,8.22,"ML, Data Science, AutoCAD","Writing, TensorFlow, Recruitment",Embedded Systems Engineer,IT,Entry-level
+M.Sc,Marketing,7.16,"CFA Level 1, Lab Techniques, Digital Marketing","SQL, SEO",Accountant,Manufacturing,Senior
+MBA,Civil Engineering,8.07,AutoCAD,"TensorFlow, Financial Modeling, SQL",Civil Engineer,IT,Mid-level
+M.Sc,Data Science,8.67,SQL,"Project Management, SEO, Writing",Data Scientist,Finance,Entry-level
+M.Tech,Civil Engineering,9.23,"Python, ML","ML, Data Analysis, Content Marketing",Embedded Systems Engineer,Manufacturing,Entry-level
+MBA,Civil Engineering,7.3,"AI, Lab Techniques, Python","C, Research",Data Scientist,Media/Publishing,Senior
+B.Sc,Statistics,8.29,"Tally, AI","Editing, Writing, Microcontrollers",Civil Engineer,Marketing,Senior
+M.Sc,Civil Engineering,9.9,"Python, Digital Marketing, HR Analytics","Recruitment, C",Data Analyst,Construction,Entry-level
+MBA,Electronics,7.11,"CFA Level 1, Lab Techniques, Tally","Financial Modeling, C, SEO",HR Executive,Manufacturing,Entry-level
+M.Tech,Statistics,7.26,"CFA Level 1, AutoCAD","Data Analysis, C, Microcontrollers, Writing",Data Scientist,Manufacturing,Senior
+B.Tech,Marketing,8.13,"AutoCAD, Embedded Systems","C, Web Development, Content Marketing, Financial Modeling",Data Scientist,Marketing,Senior
+B.A,Electronics,7.22,Digital Marketing,"Financial Modeling, CAD, Python, Writing",HR Executive,HR,Entry-level
+B.Sc,Electronics,7.67,"Lab Techniques, CFA Level 1","SEO, Research, Payroll",Accountant,IT/Research,Entry-level
+MBA,Statistics,7.99,Digital Marketing,"C, Python, Financial Modeling",Software Developer,HR,Mid-level
+BBA,Electronics,9.88,"AutoCAD, Lab Techniques, Data Science","Financial Modeling, TensorFlow, Content Marketing, Payroll",Research Associate,IT/Research,Senior
+M.Tech,Electrical Engineering,7.58,"AutoCAD, Embedded Systems, ML","Writing, Web Development, CAD, C",Content Writer,IT/Manufacturing,Entry-level
+B.Tech,Electrical Engineering,7.37,Content Writing,"TensorFlow, Recruitment, MATLAB, ML",Financial Analyst,Manufacturing,Senior
+M.Sc,Data Science,7.64,"AutoCAD, HR Analytics","Recruitment, SQL, Writing",Financial Analyst,HR,Entry-level
+BBA,Data Science,8.08,"AI, Embedded Systems, Data Science","Project Management, Research, Excel",Mechanical Engineer,HR,Mid-level
+B.Com,Human Resource,8.95,"SQL, Digital Marketing","Microcontrollers, Excel, Payroll, Project Management",Electrical Engineer,Construction,Senior
+MBA,English Literature,9.43,"AutoCAD, CFA Level 1","TensorFlow, Editing",AI Engineer,Research,Entry-level
+B.Tech,Civil Engineering,9.31,"Data Science, SQL","Financial Modeling, Content Marketing, SEO, Microcontrollers",Content Writer,Marketing,Mid-level
+B.Com,Computer Science,8.63,"Lab Techniques, AutoCAD","Project Management, CAD",Marketing Executive,HR,Senior
+B.Com,Mechanical Engineering,8.2,AI,"SEO, MATLAB, Editing, Research",Mechanical Engineer,Construction,Entry-level
+B.A,Data Science,7.8,"Data Science, AI","MATLAB, C, ML",Electrical Engineer,IT/Research,Senior
+MBA,Computer Science,7.39,CFA Level 1,"C, SEO, Content Marketing",Electrical Engineer,IT/Manufacturing,Entry-level
+B.Tech,Data Science,7.53,ML,"SQL, Research, Financial Modeling, CAD",Mechanical Engineer,IT/Research,Mid-level
+M.Tech,Civil Engineering,9.21,Python,"C, TensorFlow",Embedded Systems Engineer,Research,Entry-level
+BBA,Marketing,8.27,"Tally, SQL","Web Development, Content Marketing",Mechanical Engineer,Research,Mid-level
+B.A,Human Resource,8.92,"Data Science, CFA Level 1","Writing, MATLAB, TensorFlow",Marketing Executive,Media/Publishing,Senior
+B.A,Civil Engineering,9.44,"AI, Data Science, AutoCAD","Project Management, Recruitment",Financial Analyst,HR,Mid-level
+B.Tech,Data Science,8.9,"Tally, Embedded Systems, Python","C, MATLAB, Web Development",Electrical Engineer,IT/Manufacturing,Entry-level
+M.Tech,Data Science,9.24,"Embedded Systems, ML, SQL","TensorFlow, SQL, Web Development, CAD",Software Developer,Media/Publishing,Entry-level
+M.Sc,Data Science,7.64,"AI, Digital Marketing, Content Writing","Financial Modeling, Content Marketing, Research",Electrical Engineer,IT/Manufacturing,Entry-level
+MBA,Civil Engineering,9.27,"Data Science, SQL, Lab Techniques","TensorFlow, Editing",Data Analyst,Marketing,Entry-level
+MBA,Computer Science,7.18,"Python, SQL, Data Science","SQL, Research, Web Development, Writing",Marketing Executive,IT,Mid-level
+M.Tech,Human Resource,7.49,"Tally, Content Writing","Microcontrollers, Editing, Excel",Civil Engineer,IT/Manufacturing,Senior
+M.Sc,Mechanical Engineering,7.09,"Python, Data Science, Embedded Systems","Excel, SEO, Writing",HR Executive,HR,Entry-level
+M.Sc,English Literature,8.0,"SQL, ML, Lab Techniques","Web Development, SEO, Writing",Data Analyst,Media/Publishing,Entry-level
+B.Com,Data Science,9.97,"Data Science, CFA Level 1","Web Development, Financial Modeling",Electrical Engineer,Construction,Mid-level
+B.Tech,Finance,8.34,"AI, Content Writing","Project Management, Payroll",AI Engineer,HR,Entry-level
+BBA,Data Science,8.18,"Python, HR Analytics","C, TensorFlow",Data Analyst,Manufacturing,Mid-level
+M.Sc,Electrical Engineering,8.76,"AI, HR Analytics, Python","TensorFlow, Recruitment, Microcontrollers",Research Associate,IT,Mid-level
+B.A,Statistics,7.83,HR Analytics,"Editing, Project Management, Microcontrollers",Data Analyst,Finance,Entry-level
+B.A,Data Science,9.46,"Embedded Systems, Python","Recruitment, Project Management",Embedded Systems Engineer,IT/Research,Mid-level
+B.Com,English Literature,8.65,"AutoCAD, Embedded Systems","Web Development, ML, Data Analysis, Writing",AI Engineer,HR,Senior
+MBA,Mechanical Engineering,7.28,Tally,"Project Management, SQL, Content Marketing, ML",Marketing Executive,Manufacturing,Mid-level
+B.Sc,Computer Science,8.09,"HR Analytics, Digital Marketing","Editing, Data Analysis, SQL",Embedded Systems Engineer,Research,Mid-level
+MBA,Electronics,7.86,"Tally, CFA Level 1","Payroll, Data Analysis, Financial Modeling, Writing",Software Developer,Media/Publishing,Mid-level
+B.Com,Data Science,8.57,"Digital Marketing, Content Writing, HR Analytics","Financial Modeling, Writing, C, SEO",Electrical Engineer,Finance,Entry-level
+B.A,Electrical Engineering,7.43,"Tally, HR Analytics","ML, Web Development, Python, Financial Modeling",Financial Analyst,Manufacturing,Senior
+B.Com,Mechanical Engineering,8.49,"Lab Techniques, SQL, Data Science","Financial Modeling, Writing",Research Associate,IT/Research,Senior
+M.Sc,Finance,9.01,"Data Science, AI, Python","SQL, Editing",Mechanical Engineer,Media/Publishing,Mid-level
+B.Sc,Data Science,7.49,"CFA Level 1, SQL","Data Analysis, Content Marketing, Editing",Data Analyst,Manufacturing,Mid-level
+M.Sc,Civil Engineering,7.16,"HR Analytics, Lab Techniques","Data Analysis, Web Development, Recruitment",Data Analyst,Manufacturing,Entry-level
+B.A,Finance,9.83,Python,"Web Development, CAD, Data Analysis, Project Management",Civil Engineer,Construction,Entry-level
+BBA,Mechanical Engineering,7.46,"ML, Embedded Systems, Content Writing","Financial Modeling, Recruitment, Microcontrollers, Data Analysis",Accountant,Finance,Entry-level
+M.Tech,Electrical Engineering,7.8,"Lab Techniques, HR Analytics, ML","Writing, SEO, Data Analysis, Recruitment",Software Developer,Manufacturing,Senior
+MBA,Civil Engineering,8.41,"Data Science, CFA Level 1","Data Analysis, Recruitment, MATLAB",Embedded Systems Engineer,Finance,Mid-level
+B.Tech,English Literature,8.42,Digital Marketing,"TensorFlow, MATLAB, Financial Modeling, Recruitment",Software Developer,Construction,Senior
+M.Sc,Data Science,7.66,"Content Writing, SQL, Tally","ML, Web Development, Content Marketing, SEO",Marketing Executive,Finance,Entry-level
+M.Tech,Data Science,8.77,SQL,"Excel, Recruitment",Civil Engineer,Finance,Entry-level
+B.Sc,Computer Science,8.05,SQL,"Editing, MATLAB, C, SQL",Data Analyst,IT/Manufacturing,Senior
+B.A,Civil Engineering,9.18,AI,"Recruitment, CAD, TensorFlow",AI Engineer,Manufacturing,Entry-level
+M.Tech,Human Resource,7.39,Embedded Systems,"Microcontrollers, Content Marketing, Research",Accountant,Marketing,Entry-level
+B.Tech,Civil Engineering,8.0,"AI, Tally","Editing, Financial Modeling, Excel, SEO",Content Writer,Media/Publishing,Senior
+M.Sc,Civil Engineering,8.66,"AutoCAD, Data Science","Data Analysis, MATLAB, Project Management, SEO",AI Engineer,Manufacturing,Mid-level
+M.Sc,English Literature,9.61,"ML, Python","Recruitment, Microcontrollers",Research Associate,IT,Entry-level
+MBA,English Literature,8.87,"Content Writing, AutoCAD","Recruitment, Content Marketing, Writing",Financial Analyst,Marketing,Senior
+MBA,English Literature,9.01,"ML, Tally","SEO, Project Management",Data Scientist,IT,Senior
+BBA,Marketing,7.19,HR Analytics,"Research, TensorFlow",Content Writer,IT/Manufacturing,Entry-level
+B.Com,Electronics,8.12,Content Writing,"MATLAB, Content Marketing",Software Developer,Media/Publishing,Senior
+M.Tech,Electrical Engineering,7.38,"HR Analytics, AI, Data Science","Data Analysis, SEO, Project Management, Python",Data Scientist,Construction,Senior
+B.Sc,Marketing,8.3,"Data Science, CFA Level 1","Excel, Data Analysis, MATLAB, SEO",Financial Analyst,Construction,Mid-level
+B.Com,Statistics,7.46,CFA Level 1,"Financial Modeling, Writing",Embedded Systems Engineer,Construction,Entry-level
+M.Sc,Computer Science,8.04,"CFA Level 1, Data Science","CAD, ML, MATLAB, Research",AI Engineer,IT/Manufacturing,Mid-level
+B.Com,Electronics,7.61,"HR Analytics, ML","Excel, ML, Financial Modeling",Financial Analyst,IT/Research,Entry-level
+M.Tech,Human Resource,7.08,"SQL, Data Science","Project Management, SEO, Payroll",Accountant,HR,Senior
+BBA,Civil Engineering,7.85,"AI, SQL","Microcontrollers, Payroll, Project Management, Excel",Content Writer,IT/Manufacturing,Senior
+B.Com,Mechanical Engineering,9.62,"SQL, Python","Financial Modeling, MATLAB, Data Analysis, C",HR Executive,Marketing,Entry-level
+M.Sc,Mechanical Engineering,9.93,Lab Techniques,"Excel, Python, ML",HR Executive,HR,Senior
+B.Sc,Computer Science,9.66,"AutoCAD, CFA Level 1","Python, SEO",Financial Analyst,HR,Mid-level
+M.Tech,Electronics,9.08,Embedded Systems,"Recruitment, ML, SQL, SEO",AI Engineer,Manufacturing,Entry-level
+B.Tech,Electronics,8.73,Digital Marketing,"Research, Editing, Microcontrollers, Python",Accountant,IT,Senior
+B.Tech,Finance,7.09,Python,"Project Management, Payroll",Embedded Systems Engineer,IT/Manufacturing,Entry-level
+MBA,Civil Engineering,8.28,AutoCAD,"Web Development, MATLAB, Project Management",Content Writer,Marketing,Senior
+B.Com,Data Science,9.62,Data Science,"Microcontrollers, Editing",HR Executive,Construction,Senior
+M.Sc,Civil Engineering,7.39,"AutoCAD, Embedded Systems","Python, ML",Mechanical Engineer,IT,Mid-level
+BBA,Electronics,8.47,"Python, Embedded Systems, SQL","Writing, Project Management, Payroll, Editing",HR Executive,Media/Publishing,Mid-level
+M.Sc,Mechanical Engineering,9.77,"Data Science, CFA Level 1, Lab Techniques","Project Management, Web Development, Content Marketing",Research Associate,IT/Research,Mid-level
+B.A,Civil Engineering,9.3,"SQL, Lab Techniques","Writing, Research, Web Development, Editing",Marketing Executive,IT,Senior
+B.Sc,Computer Science,8.28,"AutoCAD, Embedded Systems, HR Analytics","Payroll, Financial Modeling, Web Development, Project Management",Marketing Executive,HR,Entry-level
+B.A,English Literature,9.15,"Tally, Embedded Systems","Recruitment, Payroll, MATLAB",AI Engineer,Media/Publishing,Senior
+B.Tech,Data Science,7.26,Content Writing,"Python, MATLAB, Web Development, ML",HR Executive,Finance,Mid-level
+B.Tech,Civil Engineering,7.86,AutoCAD,"Web Development, Payroll",Civil Engineer,Media/Publishing,Entry-level
+B.Com,English Literature,7.59,Data Science,"ML, SQL, Writing",Financial Analyst,Construction,Entry-level
+M.Tech,Marketing,9.93,"ML, Tally","SEO, SQL, Data Analysis",Embedded Systems Engineer,IT/Research,Mid-level
+M.Sc,Statistics,8.4,"Lab Techniques, Tally","Web Development, Payroll, ML, Writing",Data Analyst,Media/Publishing,Senior
+B.Tech,Marketing,7.14,Python,"Financial Modeling, Data Analysis, Microcontrollers, Writing",Civil Engineer,Marketing,Mid-level
+MBA,Electrical Engineering,8.07,"Data Science, Tally, Content Writing","SEO, TensorFlow",Mechanical Engineer,HR,Entry-level
+B.A,English Literature,7.05,Python,"Excel, Payroll, TensorFlow, MATLAB",Content Writer,IT/Manufacturing,Entry-level
+B.Tech,Human Resource,8.62,Digital Marketing,"Research, Microcontrollers, Payroll",HR Executive,Construction,Senior
+M.Tech,Human Resource,9.1,"AutoCAD, Embedded Systems, ML","Payroll, Content Marketing, Financial Modeling, Python",Data Scientist,Manufacturing,Senior
+B.Sc,Electronics,7.43,AI,"C, Python",Data Scientist,IT/Research,Entry-level
+MBA,English Literature,8.38,"AI, Content Writing, Tally","Research, Financial Modeling",Mechanical Engineer,Research,Entry-level
+B.Com,Mechanical Engineering,7.66,"Digital Marketing, CFA Level 1, Embedded Systems","SQL, Writing",Research Associate,Media/Publishing,Mid-level
+B.Com,Human Resource,9.72,"Tally, ML, SQL","Financial Modeling, SQL, Payroll, Web Development",Data Scientist,Construction,Entry-level
+MBA,Human Resource,7.18,"SQL, ML, AutoCAD","CAD, Data Analysis",Accountant,Media/Publishing,Mid-level
+B.Sc,Finance,9.44,"Digital Marketing, CFA Level 1, Lab Techniques","Writing, Financial Modeling, Web Development, Project Management",Mechanical Engineer,Research,Entry-level
+BBA,Electronics,7.69,"Python, Digital Marketing, Tally","Excel, Recruitment",HR Executive,Marketing,Senior
+B.Tech,Electrical Engineering,8.22,"Python, Lab Techniques, AutoCAD","Editing, Excel",Accountant,IT/Manufacturing,Mid-level
+B.Sc,English Literature,9.72,CFA Level 1,"MATLAB, ML, Web Development",Data Analyst,HR,Entry-level
+MBA,Statistics,8.06,Lab Techniques,"MATLAB, Payroll, Microcontrollers, Data Analysis",Electrical Engineer,Research,Mid-level
+M.Tech,Marketing,9.3,"AutoCAD, Python, SQL","TensorFlow, Excel, ML",Content Writer,HR,Entry-level
+M.Tech,Mechanical Engineering,8.83,"Lab Techniques, Embedded Systems, Data Science","Excel, Writing, ML",Civil Engineer,Manufacturing,Entry-level
+M.Tech,Statistics,8.49,"AutoCAD, Digital Marketing","MATLAB, CAD",Financial Analyst,Media/Publishing,Mid-level
+B.Sc,English Literature,9.32,"AutoCAD, Tally, Embedded Systems","Project Management, TensorFlow",Data Analyst,HR,Senior
+MBA,Finance,7.16,"Content Writing, Embedded Systems","Editing, Microcontrollers, Payroll",Data Scientist,Finance,Senior
+B.A,Data Science,8.91,"Python, Embedded Systems","Microcontrollers, Financial Modeling, Recruitment",Data Analyst,Construction,Mid-level
+M.Tech,Civil Engineering,9.67,"Content Writing, ML","Editing, C",Accountant,IT,Entry-level
+B.Sc,Marketing,8.23,"Tally, HR Analytics","Project Management, Editing",Civil Engineer,IT/Manufacturing,Senior
+MBA,Civil Engineering,9.52,"Embedded Systems, Tally","Data Analysis, Web Development, Recruitment, Microcontrollers",Marketing Executive,Marketing,Entry-level
+MBA,Civil Engineering,8.36,"Python, Content Writing","Content Marketing, TensorFlow, CAD, Web Development",Software Developer,IT/Research,Senior
+B.Com,Statistics,8.91,"CFA Level 1, Embedded Systems","Python, Web Development",Accountant,IT/Research,Entry-level
+MBA,Civil Engineering,8.17,"Content Writing, Digital Marketing, Embedded Systems","Microcontrollers, Editing, Research",HR Executive,Finance,Entry-level
+B.A,Mechanical Engineering,7.41,"AI, Lab Techniques, AutoCAD","ML, Payroll",Embedded Systems Engineer,IT,Mid-level
+B.Sc,Electronics,8.17,"Digital Marketing, HR Analytics, AutoCAD","CAD, SQL, Recruitment",Accountant,Marketing,Mid-level
+BBA,Electrical Engineering,9.75,ML,"CAD, Writing",Financial Analyst,Construction,Mid-level
+B.Sc,Mechanical Engineering,7.92,"Python, Lab Techniques","Research, MATLAB",Civil Engineer,Marketing,Senior
+B.Sc,English Literature,9.78,Embedded Systems,"Content Marketing, Data Analysis, SQL, Payroll",HR Executive,IT,Mid-level
+B.A,Statistics,7.82,"Embedded Systems, HR Analytics, CFA Level 1","C, Web Development",Civil Engineer,Media/Publishing,Mid-level
+BBA,Electronics,7.92,Content Writing,"Web Development, Data Analysis",Content Writer,Finance,Mid-level
+B.Sc,Statistics,7.22,"SQL, ML, Digital Marketing","Data Analysis, Research, Content Marketing",Civil Engineer,Marketing,Senior
+B.Com,Electronics,7.81,AI,"Writing, Content Marketing, Microcontrollers",Civil Engineer,IT,Mid-level
+M.Tech,Human Resource,7.09,"Embedded Systems, AI, AutoCAD","Project Management, Research",Content Writer,Finance,Entry-level
+BBA,Marketing,7.77,"Data Science, Embedded Systems","SQL, Payroll, Recruitment, Research",Mechanical Engineer,IT/Manufacturing,Entry-level
+B.Tech,Data Science,8.88,"Embedded Systems, AutoCAD, Tally","CAD, Web Development, Excel, Research",Data Analyst,IT,Entry-level
+B.A,Mechanical Engineering,8.5,"SQL, AI","C, Excel, Financial Modeling, Microcontrollers",Embedded Systems Engineer,IT/Manufacturing,Senior
+B.Sc,Electrical Engineering,9.43,"Tally, Lab Techniques, Python","Python, ML, Content Marketing, Editing",Content Writer,Media/Publishing,Mid-level
+M.Tech,Human Resource,7.62,"Tally, Python, AutoCAD","MATLAB, Editing, SEO",Data Scientist,Construction,Senior
+B.Com,Electronics,8.86,"Python, SQL, Content Writing","Content Marketing, Python, TensorFlow",Accountant,Finance,Senior
+BBA,Marketing,9.64,"Lab Techniques, Digital Marketing, CFA Level 1","Editing, CAD, Content Marketing",Financial Analyst,Marketing,Senior
+M.Sc,Statistics,7.31,Embedded Systems,"SEO, Content Marketing, Payroll",Accountant,Research,Entry-level
+B.A,Mechanical Engineering,7.2,"AI, Data Science, CFA Level 1","Recruitment, ML, Project Management, SQL",Accountant,Media/Publishing,Senior
+B.Com,Computer Science,8.38,"HR Analytics, CFA Level 1, Tally","Research, Web Development, Writing, ML",Electrical Engineer,Construction,Entry-level
+MBA,Computer Science,9.55,"Content Writing, Tally, Python","C, Microcontrollers, TensorFlow, Project Management",Software Developer,IT,Entry-level
+B.Com,Mechanical Engineering,8.77,"CFA Level 1, Lab Techniques, Content Writing","Payroll, Writing",Software Developer,Construction,Entry-level
+BBA,Data Science,9.92,AutoCAD,"Payroll, Data Analysis, SQL",Accountant,Research,Mid-level
+B.Sc,Electrical Engineering,8.3,ML,"Editing, Content Marketing",HR Executive,IT/Manufacturing,Entry-level
+MBA,Mechanical Engineering,9.53,"Data Science, Tally","SQL, Project Management, TensorFlow",Data Analyst,Marketing,Mid-level
+B.Sc,Mechanical Engineering,8.5,"Lab Techniques, Embedded Systems, Digital Marketing","Financial Modeling, Recruitment, Data Analysis",Marketing Executive,Finance,Mid-level
+M.Tech,Electrical Engineering,7.07,"AutoCAD, Embedded Systems, SQL","C, Payroll",Research Associate,Manufacturing,Mid-level
+MBA,Finance,9.09,"AutoCAD, AI","Web Development, Microcontrollers",Mechanical Engineer,HR,Entry-level
+BBA,Electronics,8.77,Embedded Systems,"SQL, Excel",Software Developer,IT,Mid-level
+B.A,Data Science,7.52,"SQL, Digital Marketing, AutoCAD","ML, Writing",Content Writer,Construction,Entry-level
+B.A,Human Resource,7.96,"Digital Marketing, Embedded Systems, AutoCAD","TensorFlow, Recruitment",AI Engineer,Marketing,Senior
+B.Tech,Data Science,9.73,"Embedded Systems, Digital Marketing, CFA Level 1","ML, Research, MATLAB",Research Associate,IT/Research,Senior
+BBA,Data Science,9.22,AI,"ML, Project Management, Editing",Data Scientist,Finance,Senior
+B.Sc,Civil Engineering,8.17,"Python, SQL, AI","Python, Web Development, TensorFlow",Mechanical Engineer,Media/Publishing,Senior
+BBA,Electrical Engineering,8.44,Digital Marketing,"Project Management, Research",HR Executive,IT/Manufacturing,Mid-level
+MBA,Finance,7.56,"Content Writing, AI","Web Development, Project Management, Research, Python",Accountant,Media/Publishing,Mid-level
+B.Sc,Statistics,8.15,"Content Writing, AutoCAD, Data Science","C, Editing",Mechanical Engineer,IT/Research,Mid-level
+BBA,Mechanical Engineering,7.83,"SQL, Embedded Systems","Excel, Editing",HR Executive,Finance,Mid-level
+B.A,Computer Science,7.52,"Lab Techniques, Digital Marketing, Embedded Systems","Excel, Project Management, C, ML",Data Analyst,Finance,Mid-level
+B.Sc,Marketing,9.63,"ML, AutoCAD","Writing, Financial Modeling, MATLAB, Content Marketing",Civil Engineer,Research,Mid-level
+B.Com,Mechanical Engineering,7.73,"Tally, Content Writing","Content Marketing, Python",Marketing Executive,Marketing,Mid-level
+MBA,Mechanical Engineering,8.84,"AI, ML","Research, ML, Project Management, Writing",Civil Engineer,Marketing,Mid-level
+B.Sc,Civil Engineering,9.26,"ML, Data Science","Payroll, Python, ML",AI Engineer,Marketing,Mid-level
+B.A,English Literature,7.75,HR Analytics,"Python, SQL",HR Executive,Manufacturing,Senior
+B.Com,Human Resource,8.34,"Digital Marketing, Content Writing, SQL","Content Marketing, Recruitment, SEO",Financial Analyst,Research,Entry-level
+B.Sc,Civil Engineering,9.79,"Lab Techniques, Data Science","Recruitment, Content Marketing, Excel",Financial Analyst,Research,Mid-level
+B.Sc,Civil Engineering,9.8,Lab Techniques,"Recruitment, Writing, C, SQL",Research Associate,Manufacturing,Entry-level
+B.Sc,English Literature,8.19,"AI, CFA Level 1, Content Writing","SQL, CAD",Civil Engineer,Construction,Mid-level
+BBA,English Literature,8.14,AI,"Project Management, Content Marketing, C",Content Writer,Media/Publishing,Entry-level
+B.Tech,Finance,8.55,HR Analytics,"Editing, TensorFlow, Microcontrollers, Payroll",Research Associate,IT/Research,Senior
+M.Sc,English Literature,9.38,ML,"SEO, SQL",Data Analyst,IT/Manufacturing,Mid-level
+B.A,Computer Science,7.24,"Data Science, Digital Marketing, AutoCAD","Python, Recruitment",Software Developer,IT/Research,Entry-level
+B.Com,Civil Engineering,8.71,"CFA Level 1, Data Science, Embedded Systems","Python, Editing, C, Writing",Financial Analyst,Finance,Senior
+M.Tech,English Literature,7.65,"AutoCAD, HR Analytics, AI","Excel, Writing, TensorFlow",Content Writer,Media/Publishing,Senior
+M.Sc,English Literature,7.31,"AutoCAD, ML","MATLAB, C, Data Analysis",AI Engineer,Research,Senior
+B.A,Statistics,7.77,"CFA Level 1, Lab Techniques","CAD, Editing",HR Executive,Research,Entry-level
+MBA,Finance,7.89,"Tally, Lab Techniques","Content Marketing, Writing, C, TensorFlow",Accountant,Finance,Mid-level
+MBA,Human Resource,7.5,Lab Techniques,"Data Analysis, Excel",Accountant,Finance,Mid-level
+B.A,English Literature,8.56,"ML, CFA Level 1","Payroll, MATLAB, Data Analysis",Research Associate,Manufacturing,Mid-level
+MBA,Mechanical Engineering,8.44,"Data Science, Lab Techniques","Microcontrollers, Project Management",Accountant,IT/Manufacturing,Mid-level
+M.Sc,Finance,9.68,"Lab Techniques, AutoCAD, AI","Financial Modeling, Data Analysis",Embedded Systems Engineer,HR,Senior
+M.Tech,Marketing,8.43,SQL,"SEO, Web Development",Financial Analyst,Research,Mid-level
+M.Tech,Data Science,8.19,"ML, Python","Research, CAD, Payroll, Writing",Research Associate,Manufacturing,Entry-level
+B.Tech,Data Science,7.96,AI,"Project Management, Content Marketing, C",Embedded Systems Engineer,Finance,Entry-level
+MBA,Finance,9.97,"Tally, AI, Data Science","Excel, Microcontrollers",Accountant,IT/Manufacturing,Mid-level
+B.Sc,Civil Engineering,7.11,"Digital Marketing, Python","Financial Modeling, SEO, Research, Writing",Accountant,IT/Manufacturing,Entry-level
+B.Tech,English Literature,9.04,"SQL, HR Analytics","Writing, Research, Editing",Embedded Systems Engineer,IT/Manufacturing,Mid-level
+MBA,English Literature,7.4,ML,"SQL, Excel, CAD",Financial Analyst,IT,Entry-level
+B.Com,Finance,7.83,"Tally, CFA Level 1","SEO, Excel, Microcontrollers, C",Software Developer,IT/Research,Mid-level
+BBA,Mechanical Engineering,8.66,"AutoCAD, Tally","Content Marketing, Project Management, Data Analysis",Mechanical Engineer,IT/Manufacturing,Entry-level
+B.Tech,Mechanical Engineering,9.17,"Content Writing, HR Analytics","SEO, Microcontrollers, Editing, Excel",Financial Analyst,Media/Publishing,Mid-level
+BBA,Electrical Engineering,8.08,AutoCAD,"C, MATLAB, Research, Python",Marketing Executive,Construction,Mid-level
+M.Tech,Marketing,8.02,"CFA Level 1, ML","SEO, Data Analysis",Software Developer,Research,Mid-level
+BBA,Statistics,9.86,Lab Techniques,"C, Writing",Mechanical Engineer,Construction,Senior
+B.Com,Human Resource,7.96,"SQL, Content Writing","SEO, Recruitment, Research",Embedded Systems Engineer,Manufacturing,Mid-level
+M.Tech,Mechanical Engineering,9.77,AI,"C, Research, Python",Software Developer,Construction,Entry-level
+M.Tech,Electrical Engineering,8.13,"Tally, AI","Excel, SEO, Research, Payroll",Embedded Systems Engineer,Marketing,Senior
+B.Sc,Mechanical Engineering,7.63,Python,"Python, Editing",Research Associate,Research,Entry-level
+BBA,Marketing,7.34,"Data Science, HR Analytics","SEO, CAD",Mechanical Engineer,Marketing,Senior
+M.Sc,Mechanical Engineering,9.82,"Tally, Content Writing, Data Science","C, Data Analysis",Marketing Executive,Construction,Senior
+MBA,Human Resource,8.81,AutoCAD,"Recruitment, Web Development, Excel",Data Analyst,Research,Mid-level
+BBA,Human Resource,7.37,"CFA Level 1, Data Science","MATLAB, C, Python",Data Scientist,Marketing,Mid-level
+MBA,Civil Engineering,7.13,"ML, Content Writing, Python","SEO, CAD, MATLAB",Marketing Executive,Construction,Entry-level
+BBA,Human Resource,7.76,"Tally, ML, Python","Python, SEO",Financial Analyst,Media/Publishing,Senior
+B.Sc,English Literature,7.08,"Digital Marketing, SQL, AI","Payroll, Data Analysis, Excel, Content Marketing",Electrical Engineer,HR,Mid-level
+MBA,Human Resource,9.88,"Embedded Systems, HR Analytics, Lab Techniques","Data Analysis, Content Marketing, SEO, SQL",Content Writer,IT,Entry-level
+B.A,Civil Engineering,8.16,"AI, AutoCAD, Digital Marketing","Editing, C, CAD",Data Analyst,IT,Mid-level
+B.A,Electrical Engineering,9.37,"SQL, Tally, Digital Marketing","MATLAB, Microcontrollers, Payroll, CAD",HR Executive,IT,Entry-level
+B.Sc,Human Resource,8.69,Content Writing,"Project Management, C",Software Developer,Media/Publishing,Mid-level
+B.Sc,Finance,9.01,Data Science,"Web Development, Content Marketing",HR Executive,Finance,Senior
+B.Com,Civil Engineering,7.8,"Data Science, AutoCAD, ML","C, Project Management, Python",Embedded Systems Engineer,IT,Senior
+M.Sc,Electronics,9.98,"Content Writing, AutoCAD, Data Science","Editing, MATLAB",Electrical Engineer,HR,Senior
+B.Sc,Human Resource,8.99,"ML, HR Analytics, AI","Project Management, Data Analysis, Python, Payroll",HR Executive,Construction,Mid-level
+B.A,Civil Engineering,9.3,Content Writing,"TensorFlow, SQL, Data Analysis",Research Associate,IT/Research,Mid-level
+B.A,English Literature,8.15,"Content Writing, AutoCAD, Embedded Systems","Content Marketing, Web Development, CAD",Civil Engineer,Research,Senior
+BBA,Data Science,7.11,Data Science,"Project Management, Research, Payroll, Python",Software Developer,Media/Publishing,Senior
+M.Sc,Mechanical Engineering,7.68,"SQL, Lab Techniques, Content Writing","C, Editing, Recruitment",Civil Engineer,Marketing,Mid-level
+B.Com,Computer Science,7.35,CFA Level 1,"TensorFlow, Project Management",Marketing Executive,IT/Manufacturing,Mid-level
+B.Sc,Electronics,8.94,"SQL, Tally","ML, Research",AI Engineer,Finance,Entry-level
+B.Sc,Data Science,8.12,Digital Marketing,"Excel, Content Marketing, Project Management",HR Executive,Construction,Entry-level
+B.A,Marketing,9.27,"SQL, Tally, Digital Marketing","Excel, Writing, Web Development",Civil Engineer,Research,Entry-level
+BBA,English Literature,8.16,"AI, HR Analytics","Content Marketing, Web Development, Python",Electrical Engineer,Finance,Mid-level
+B.Tech,Finance,9.82,"SQL, Lab Techniques","ML, Microcontrollers",Mechanical Engineer,Research,Entry-level
+BBA,English Literature,7.6,"Tally, Embedded Systems, Content Writing","Web Development, Content Marketing, CAD, Excel",Financial Analyst,Finance,Mid-level
+B.Tech,English Literature,9.96,"Lab Techniques, ML","SEO, Writing",Content Writer,Marketing,Mid-level
+B.Sc,Human Resource,7.34,AutoCAD,"Financial Modeling, Content Marketing, C",AI Engineer,Research,Senior
+M.Tech,Civil Engineering,7.96,HR Analytics,"CAD, Python, Project Management, Content Marketing",AI Engineer,Finance,Entry-level
+BBA,Human Resource,8.53,"Lab Techniques, AI","Excel, Research",Electrical Engineer,IT/Research,Senior
+BBA,Mechanical Engineering,8.73,HR Analytics,"Research, Payroll, Editing",AI Engineer,Finance,Entry-level
+M.Sc,Statistics,7.34,"CFA Level 1, Digital Marketing","Financial Modeling, Python, CAD, Payroll",Research Associate,IT,Senior
+MBA,Civil Engineering,9.27,"SQL, Tally, HR Analytics","Excel, SEO, Writing, Editing",Data Analyst,HR,Senior
+M.Tech,Civil Engineering,8.16,"Embedded Systems, Content Writing","C, Financial Modeling, ML, Editing",Financial Analyst,Construction,Entry-level
+M.Sc,Mechanical Engineering,9.04,"Content Writing, Data Science","ML, Web Development, C, SQL",Accountant,Media/Publishing,Senior
+B.Com,Marketing,9.95,"AutoCAD, Lab Techniques, HR Analytics","Content Marketing, Web Development, Microcontrollers, Python",Financial Analyst,Media/Publishing,Mid-level
+B.A,Human Resource,7.63,"CFA Level 1, Content Writing, Digital Marketing","Project Management, MATLAB, Writing, Editing",Software Developer,Media/Publishing,Entry-level
+BBA,Data Science,9.31,Content Writing,"Payroll, Editing, Writing",AI Engineer,IT,Senior
+BBA,Civil Engineering,8.77,ML,"Editing, Research",Data Analyst,IT/Manufacturing,Mid-level
+MBA,Finance,9.1,Content Writing,"TensorFlow, Excel",Embedded Systems Engineer,IT/Manufacturing,Mid-level
+B.Com,Civil Engineering,9.35,"Lab Techniques, Content Writing","C, ML, Research, SEO",Mechanical Engineer,Construction,Entry-level
+B.Tech,Human Resource,7.85,"Content Writing, HR Analytics, Embedded Systems","Data Analysis, Research, ML, CAD",HR Executive,Media/Publishing,Mid-level
+B.Sc,Mechanical Engineering,7.58,Data Science,"SQL, ML, TensorFlow, Web Development",Software Developer,Construction,Entry-level
+B.A,Electrical Engineering,9.82,Digital Marketing,"ML, C, Data Analysis, Excel",Software Developer,IT,Senior
+B.A,Marketing,8.51,Digital Marketing,"TensorFlow, Content Marketing",Marketing Executive,IT/Manufacturing,Mid-level
+B.A,Electronics,7.76,"Tally, SQL","Financial Modeling, Editing, Python",Civil Engineer,Media/Publishing,Mid-level
+B.Sc,Computer Science,9.84,"Tally, AI","Writing, Microcontrollers, Web Development",Mechanical Engineer,IT,Mid-level
+M.Sc,Statistics,7.3,"Lab Techniques, Python, Embedded Systems","ML, Writing",HR Executive,IT/Manufacturing,Mid-level
+M.Sc,Marketing,8.37,"Digital Marketing, CFA Level 1","Microcontrollers, SEO",HR Executive,HR,Mid-level
+B.Com,Marketing,8.5,"Data Science, CFA Level 1","SEO, CAD, Editing, Project Management",Civil Engineer,Marketing,Entry-level
+B.Tech,Electrical Engineering,8.49,ML,"C, TensorFlow, SQL, SEO",Mechanical Engineer,Finance,Entry-level
+B.Com,Electronics,9.55,"Embedded Systems, CFA Level 1, HR Analytics","Content Marketing, CAD",Civil Engineer,HR,Entry-level
+B.Com,Marketing,7.38,"CFA Level 1, Data Science","CAD, MATLAB",Electrical Engineer,Construction,Mid-level
+BBA,Electronics,7.48,"Python, SQL, Digital Marketing","Web Development, Project Management, SEO",AI Engineer,IT,Senior
+B.Com,Human Resource,7.23,AutoCAD,"Web Development, Microcontrollers, CAD",Data Scientist,IT/Research,Entry-level
+B.Com,Electronics,9.47,"CFA Level 1, Digital Marketing, Embedded Systems","Editing, Financial Modeling, ML",HR Executive,Manufacturing,Mid-level
+M.Tech,Data Science,8.45,Tally,"Financial Modeling, SQL",Software Developer,Media/Publishing,Senior
+B.Com,Electrical Engineering,8.03,"Embedded Systems, ML, Tally","Writing, Financial Modeling",Software Developer,Manufacturing,Entry-level
+MBA,Human Resource,8.14,"Content Writing, Python","SQL, Web Development, Payroll, ML",Mechanical Engineer,Research,Senior
+B.Com,Data Science,8.19,Embedded Systems,"SQL, CAD, SEO, Data Analysis",Mechanical Engineer,HR,Senior
+B.A,Electrical Engineering,7.01,"Tally, Digital Marketing","Editing, Python",Electrical Engineer,Manufacturing,Entry-level
+B.A,Human Resource,7.48,SQL,"SQL, Excel",Financial Analyst,IT/Research,Mid-level
+B.Sc,Finance,7.5,"Python, HR Analytics, CFA Level 1","TensorFlow, Writing, Project Management",Content Writer,Research,Senior
+B.A,Electrical Engineering,9.03,Embedded Systems,"SQL, Data Analysis, TensorFlow, MATLAB",Civil Engineer,IT/Manufacturing,Senior
+B.A,Mechanical Engineering,9.65,"HR Analytics, Tally, Embedded Systems","Writing, Recruitment, SQL, ML",HR Executive,HR,Mid-level
+M.Sc,Computer Science,9.61,"AutoCAD, SQL, Tally","Web Development, Research",Marketing Executive,Manufacturing,Senior
+B.Com,Civil Engineering,8.86,"AutoCAD, SQL","TensorFlow, Editing",Software Developer,IT,Senior
+B.Sc,Finance,8.96,Tally,"SEO, ML",Electrical Engineer,Finance,Mid-level
+M.Tech,Finance,7.78,AI,"Payroll, SEO",Accountant,IT,Senior
+MBA,Marketing,9.1,"Lab Techniques, Python, SQL","Content Marketing, Research",Research Associate,Manufacturing,Senior
+BBA,Human Resource,8.72,"CFA Level 1, Digital Marketing, Lab Techniques","Editing, ML",Financial Analyst,Media/Publishing,Entry-level
+B.Com,Data Science,9.8,Content Writing,"Content Marketing, ML",Accountant,HR,Mid-level
+B.Com,Computer Science,7.81,"Python, Content Writing, SQL","Writing, Python, Data Analysis",Electrical Engineer,IT,Senior
+B.Sc,Human Resource,8.45,Digital Marketing,"ML, Content Marketing, Microcontrollers, SEO",Data Analyst,Media/Publishing,Mid-level
+MBA,Mechanical Engineering,7.44,"Tally, AutoCAD","ML, Financial Modeling",Research Associate,Manufacturing,Senior
+BBA,Statistics,8.04,CFA Level 1,"Recruitment, Payroll",Mechanical Engineer,Research,Senior
+B.Com,Finance,9.63,Digital Marketing,"ML, CAD, Microcontrollers, Research",Data Scientist,IT/Manufacturing,Senior
+BBA,Data Science,7.25,CFA Level 1,"Editing, SEO, Python, Content Marketing",Research Associate,HR,Senior
+BBA,Mechanical Engineering,8.96,Embedded Systems,"SQL, Web Development",Data Scientist,Finance,Entry-level
+B.A,Data Science,7.19,AutoCAD,"Python, Data Analysis, Excel, SEO",Mechanical Engineer,IT/Manufacturing,Mid-level
+B.A,Electrical Engineering,8.36,"AutoCAD, Lab Techniques, HR Analytics","Data Analysis, C, CAD",Data Analyst,IT/Manufacturing,Mid-level
+M.Sc,Marketing,7.68,"Lab Techniques, Content Writing","SQL, CAD, Python, Project Management",Data Analyst,IT/Manufacturing,Mid-level
+M.Sc,Data Science,7.9,"HR Analytics, Lab Techniques","MATLAB, Content Marketing, C",Data Scientist,IT/Research,Mid-level
+M.Tech,Electrical Engineering,7.06,"Lab Techniques, CFA Level 1, AutoCAD","Microcontrollers, Content Marketing, Python, Project Management",Financial Analyst,HR,Senior
