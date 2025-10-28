@@ -38,7 +38,7 @@ It clearly explains every stage step-by-step, including purpose, methods, and ou
 
 
 
-# 🧠 Milestone-2: Data Preprocessing and Visualization
+ 🧠 Milestone-2: Data Preprocessing and Visualization
 
  🔍 **Overview**
 
