@@ -189,7 +189,7 @@ To explore feature relationships, several plots were generated using **Seaborn**
 * Target: *Job Role*
 * Minimum accuracy potential: High (clean & standardized data)
 
-## 🧾 **Conclusion**
+ 🧾 Conclusion
 
 This milestone establishes a **clean, well-structured dataset** ready for model building.
 By handling missing data, normalizing scales, encoding categories, and visualizing relationships, we created a solid foundation for predictive modeling — specifically, predicting job roles based on educational background and skillset.
