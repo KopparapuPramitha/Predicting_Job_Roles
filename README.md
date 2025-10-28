@@ -14,7 +14,7 @@ The work is divided into structured milestones, ensuring a systematic and profes
 🟢 Demonstrate strong knowledge of EDA, feature engineering, ML models, and deployment tools
 
 🏆 Milestones
-✅ ## Milestone 1 – Data Cleaning & Exploratory Data Analysis
+✅ ## **Milestone 1 – Data Cleaning & Exploratory Data Analysis**
 
 📓 Notebook: Infosys(M-1).ipynb
 
@@ -38,7 +38,7 @@ It clearly explains every stage step-by-step, including purpose, methods, and ou
 
 
 
- 🧠 ## Milestone-2: Data Preprocessing and Visualization
+ 🧠 ## **Milestone-2: Data Preprocessing and Visualization**
 
  🔍 **Overview**
 
@@ -218,7 +218,7 @@ Edu2Job_Project/
 Absolutely ✅
 Here is the **Milestone-3: Ensembling Machine Learning Models** documentation in the *same structure, tone, and formatting* as your Milestone-2 write-up — ready to upload into GitHub.
 
-🧠 ## Milestone-3: Ensembling Machine Learning Models
+🧠 ## **Milestone-3: Ensembling Machine Learning Models**
 
 🎯 Model Training, Evaluation & Performance Comparison
 
